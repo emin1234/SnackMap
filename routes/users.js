@@ -16,13 +16,13 @@ var locations = [
       longitude: 18.4330765,
     },
   },
-  {
+  /*{
     user: 'ccc',
     coordinates: {
       latitude: 45.8462365,
       longitude: 18.4330778,
     },
-  },
+  },*/
 ]
 
 /* GET users listing. */
